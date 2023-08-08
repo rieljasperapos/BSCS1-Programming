@@ -1,2 +1,2 @@
-Compilations of my programs in BSCS1.
+Compilations of my codes in BSCS1.
 
